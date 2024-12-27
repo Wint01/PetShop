@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PetShop</string>
+    <string name="sales_icon">sales</string>
+    <string name="filter_icon">filter</string>
+    <string name="logo_name">logo</string>
+    <string name="search_icon">search</string>
+    <string name="logo_part1">Pet</string>
+    <string name="logo_part2">Shop</string>
+    <string name="Description">Описание товара</string>
+    <string name="Category">КАТАЛОГ ТОВАРОВ</string>
+    <string name="catalog_title">КАТАЛОГ title</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

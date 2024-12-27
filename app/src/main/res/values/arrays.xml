@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="delivery_options">
+        <item>Курьер</item>
+        <item>Самовывоз</item>
+    </string-array>
+    <string-array name="payment_options">
+        <item>Картой</item>
+        <item>Наличными</item>
+    </string-array>
+</resources>
